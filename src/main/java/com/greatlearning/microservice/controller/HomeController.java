@@ -8,7 +8,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "<h1> Welcome week10 Assignment - Admin Microservices</h1>";
+        return "<h1> Welcome - Admin Microservices</h1>";
     }
 
 }
